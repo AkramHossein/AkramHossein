@@ -21,9 +21,5 @@ Welcome to my GitHub! As a passionate competitive programmer with expertise in *
 - **Email**: [akramhosseincse@gmail.com](mailto:akramhosseincse@gmail.com)
 - **Competitive Programming**: [Codeforces Profile](https://codeforces.com/profile/The-Dreamer)
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkramHossein&show_icons=true&theme=radical" width="60%" alt="Akram's GitHub stats"/>
-</div>
 
 
